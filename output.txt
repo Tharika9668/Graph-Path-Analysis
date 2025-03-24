@@ -1,0 +1,10 @@
+Shortest distance to node 0: 0
+Shortest distance to node 1: 65
+Shortest distance to node 2: 71
+Shortest distance to node 3: 56
+Shortest distance to node 4: 62
+Shortest distance to node 5: 65
+Shortest distance to node 6: 46
+Shortest distance to node 7: 57
+Shortest distance to node 8: 58
+Shortest distance to node 9: 69
